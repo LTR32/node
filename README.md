@@ -7,3 +7,7 @@ DB_USER = root
 DB_PASSWORD = ""
 <br/>
 DB_DATABASE = node
+
+<br/>
+<br/>
+Les informations concernant l'envoie de mails sont dans la partie services.
